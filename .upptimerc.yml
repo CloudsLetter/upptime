@@ -6,7 +6,8 @@ sites:
   - name: Satellite API
     url: https://satellite.cloudyi.xyz/ping
     method: GET
-    delay: 2000
+    delay: 1500
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
