@@ -1,7 +1,7 @@
 url: https://satellite.cloudyi.xyz/ping
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2025-01-24T08:02:53.540Z
+status: down
+code: 404
+responseTime: 164
+lastUpdated: 2025-01-24T11:32:27.754Z
 startTime: 2025-01-24T07:36:45.676Z
 generator: Upptime <https://github.com/upptime/upptime>
