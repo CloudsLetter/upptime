@@ -4,7 +4,7 @@
     "url": "https://satellite.cloudyi.xyz/ping",
     "icon": "https://icons.duckduckgo.com/ip3/satellite.cloudyi.xyz.ico",
     "slug": "satellite-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2025-01-24": 26
     }
   }
