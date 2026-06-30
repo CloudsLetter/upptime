@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/satellite.cloudyi.xyz.ico",
     "slug": "satellite-api",
     "status": "down",
-    "uptime": "27.21%",
+    "uptime": "27.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 7416,
-    "timeDay": 38,
-    "timeWeek": 94,
-    "timeMonth": 98,
+    "time": 7415,
+    "timeDay": 78,
+    "timeWeek": 88,
+    "timeMonth": 97,
     "timeYear": 9949,
     "dailyMinutesDown": {
-      "2026-06-29": 291,
+      "2026-06-30": 258,
+      "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
@@ -379,8 +380,7 @@
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
-      "2025-07-01": 1440,
-      "2025-06-30": 1440
+      "2025-07-01": 1440
     }
   }
 ]
